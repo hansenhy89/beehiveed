@@ -26,7 +26,7 @@ nav {
   display:inline-block;
 }
 
-.nav_links {
+.nav_links a {
   float:right;
   text-deocartion:none;
   list-style-type:none;
