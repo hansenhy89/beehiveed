@@ -4,9 +4,17 @@ margin:0;
 
 .logo {
   max-height:35px;
+  display:inline-block;
+}
+
+logoParagraph {
+  display:inline-block;
 }
 
 header {
   background:yellow;
   height:65px;
+  margin:0;
 }
+
+
