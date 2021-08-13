@@ -5,6 +5,7 @@ margin:0;
 .logo {
   max-height:35px;
   display:inline-block;
+  margin:5px;
 }
 
 logoParagraph {
