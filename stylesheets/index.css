@@ -29,5 +29,6 @@ nav {
 .nav_links {
   float:right;
   text-deocartion:none;
+  list-style-type:none;
 }
 
