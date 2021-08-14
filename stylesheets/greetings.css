@@ -6,6 +6,10 @@
 }
 /*tab buttons*/
 
+img {
+	max-width:200px;
+}
+
 .tab button {
 	background-color: inherit;
 	border: none;
