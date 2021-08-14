@@ -8,6 +8,8 @@
 
 img {
 	max-width:200px;
+	float:right;
+	padding-right:100px;
 }
 
 .tab button {
