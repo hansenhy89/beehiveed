@@ -26,10 +26,10 @@ button {
     border-radius:25px;
     font-size:18px;
     display:block;
-    
+    border:none;    
 }
 
 button:hover {
-
+    background-color:yellow;
 }
 
