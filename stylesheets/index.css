@@ -4,13 +4,12 @@
     }
 
 .center {
-    padding:50%;
+    padding-top:50%;
 }
     .logo {
       max-height:180px;
       display:block;
       margin:auto;
-      padding:50%;
     }
     
     .logoParagraph {
