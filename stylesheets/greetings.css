@@ -8,7 +8,7 @@
 
 img {
 	max-width:200px;
-	float:right;
+	
 	padding-right:100px;
 }
 
@@ -44,7 +44,7 @@ img {
 	padding-right:10px;
   }
   
-  .origin {
+  #origin {
 	flex-basis: 100%;
 
   }
