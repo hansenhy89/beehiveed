@@ -11,20 +11,22 @@ body {
 .center {
     padding-top:50%;
 }
-    .logo {
+
+.logo {
       max-height:180px;
       display:block;
-      margin:auto;
-    }
+      margin-left:auto;
+      margin-right:auto;
+}
     
-    .logoParagraph {
+.logoParagraph {
      font-family:calibri;
      font-size:35px;
      display:block;
      text-align:center;
      font-weight:600px;
      color:yellow;
-    }
+}
     
 button {
     border-radius:25px;
