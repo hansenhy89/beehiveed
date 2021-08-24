@@ -5,12 +5,12 @@
 
 body {
     background-image: url("girlStudying.jpg");
-        background-size:cover;
+    background-size:cover;
 }
 
 .center {
-    padding-top:50%;
-    padding-bottom:50%;
+    padding-top:25%;
+    padding-bottom:25%;
 }
 
 .logo {
