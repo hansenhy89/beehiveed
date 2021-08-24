@@ -10,6 +10,7 @@ body {
 
 .center {
     padding-top:50%;
+    padding-bottom:50%;
 }
 
 .logo {
@@ -35,6 +36,7 @@ button {
     border:none;  
     width:200px;
     text-align:cener;
+    margin:auto;
 }
 
 button:hover {
